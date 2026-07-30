@@ -1,4 +1,4 @@
-<h1 align="center">👋 Carlos Cuatin</h1>
+<h1 align="center">👋✨ Carlos Cuatin 🦄</h1>
 
 <p align="center">
   <strong>Senior Frontend Engineer</strong> · 10+ years · Bogotá, Colombia 🇨🇴
