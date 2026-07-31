@@ -14,7 +14,7 @@
 
 ## 🧭 About
 
-Product built end to end — React and Angular at the front, Node and Go behind, Postgres underneath.
+Product built end to end — React at the front, Node and Go behind, Postgres underneath.
 
 - 🏗️ Currently at **Eden** — microfrontends with **NX** and **Webpack Module Federation** for PACS and clinical management systems
 - 🧑‍✈️ Previously **Mercado Libre**, **Rappi**, and **Tech Lead of a 7-person team at Treinta**, where I owned the architecture and stack decisions
